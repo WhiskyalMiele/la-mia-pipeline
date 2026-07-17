@@ -1,3 +1,3 @@
-![CI](https://github.com/TUO-UTENTE/la-mia-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/sara.ingrassia/la-mia-pipeline/actions/workflows/ci.yml/badge.svg)
 # la-mia-pipeline
 Automation e Pipeline con AWS
